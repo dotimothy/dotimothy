@@ -9,7 +9,7 @@
 <br>
 👯 I’m looking to collaborate on anything that involves enchancing media.
 <br>
-🤔 I’m looking for help with learning server languages, like SQL.
+🤔 I’m looking for help with learning server languages, like SQL, Django, or AWS.
 <br>
 💬 Ask me about what projects I want to create!
 <br>
