@@ -13,7 +13,7 @@
 <br>
 💬 Ask me about what projects I want to create!
 <br>
-📫 How to reach me: [Click Here!](https://dotimothy.github.io/contact)
+📫 How to reach me: <a href="https://dotimothy.github.io/contact" target="_blank">Click Here!</a>
 <br>
 😄 Pronouns: He/Him/His
 <br>
