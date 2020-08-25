@@ -1,4 +1,5 @@
 ### Hi there 👋
+## My name is Timothy Do, and I am a second year Electrical Engineering Student at UC Irvine. My specilization is Digital Signal Processing,and my research interests are media enchancement and motion interpolation with Artificial Intelligence..
 
 <!--
 **dotimothy/dotimothy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
