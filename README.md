@@ -5,7 +5,7 @@
 ### What I Do
 🔭 I’m currently working on the SCU Complex Fires website (https://scucomplexfires.com) to provide resources for SCU Fire Victims.
 <br>
-🌱 I’m currently learning Python in the Wake of the Artificial Intelligence Industry.
+🌱 I’m currently learning Python in the Wake of the Artificial Intelligence Industry. Also Arduino Uno Circuitry!
 <br>
 👯 I’m looking to collaborate on anything that involves enchancing media.
 <br>
