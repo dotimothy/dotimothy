@@ -19,5 +19,5 @@
 <br>
 ⚡ Fun fact: I play the Euphonium (aka Tiny Tuba) in my free time!
 
-📄 Here's My [Resume](https://dotimothy.github.io/resume.html") if You Inquire My Services!
+📄 Here's My [Resume](https://dotimothy.github.io/resume.html) if You Inquire My Services!
 
