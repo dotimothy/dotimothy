@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-### My name is Timothy Do, and I am a second year Electrical Engineering Student at UC Irvine. My specilization is Digital Signal Processing,and my research interests are media enchancement and motion interpolation with Artificial Intelligence. Check out my projects [PhotoLab_JS](https://dotimothy.github.io/PhotoLab_JS) and [RefreshVideos](https://dotimothy.github.io/RefreshVideos) to see some cool projects in my field! I hope we can collaborate soon, please don't hesitate to contact me if you want to work on something cool!!!!
+### My name is Timothy Do, and I am an incoming third year Electrical Engineering Student at UC Irvine. My specilization is Digital Signal Processing,and my research interests are media enchancement and motion interpolation with Artificial Intelligence. Check out my projects [PhotoLab_JS](https://dotimothy.github.io/PhotoLab_JS) and [RefreshVideos](https://dotimothy.github.io/RefreshVideos) to see some cool projects in my field! I hope we can collaborate soon, please don't hesitate to contact me if you want to work on something cool!!!!
 
 ### What I Do
 🔭 I’m currently working on [Timduino Tutorials](https://dotimothy.github.io/TimduinoTutorials) where I document my process of learning the Arduino Uno. I'm also learning GPIO programming on the Raspberry Pi, where I made a [Morse Code Transmitter](https://github.com/dotimothy/PiFmMorse).
