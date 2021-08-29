@@ -21,3 +21,7 @@
 
 📄 Here's My [Resume](https://dotimothy.github.io/resume.html) if You Inquire My Services!
 
+See you around!
+
+<img width="50%" src="https://dotimothy.github.io/images/fulls/06.JPG">
+
