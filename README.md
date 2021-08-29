@@ -25,7 +25,7 @@
 
 📄 Here's My [Resume](https://dotimothy.github.io/resume.html) if You Inquire My Services!
 
-See you around!
+See you around! Always drop an email if you wanna collab! ([timothydobsa@gmail.com](mailto:timothydobsa@gmail.com))
 
 
 
