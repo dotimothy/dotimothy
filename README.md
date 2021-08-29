@@ -1,6 +1,6 @@
 ## Greetings, Fellow Internet Explorer! 😎
 
-<img width="50%" src="https://dotimothy.github.io/images/NVIDA.jpg">
+<img width="50%" src="https://dotimothy.github.io/images/NVIDIA.jpg">
 
 ### My name is Timothy Do, and I am an incoming third year Electrical Engineering Student at UC Irvine. My specilization is Digital Signal Processing,and my research interests are media enchancement and motion interpolation with Artificial Intelligence. Check out my projects [PhotoLab_JS](https://dotimothy.github.io/PhotoLab_JS) and [RefreshVideos](https://dotimothy.github.io/RefreshVideos) to see some cool projects in my field! I hope we can collaborate soon, please don't hesitate to contact me if you want to work on something cool!!!!
 
