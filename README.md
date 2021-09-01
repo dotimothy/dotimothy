@@ -5,7 +5,7 @@
 ![GitHub Statistics for Timothy Do](https://github-readme-stats.vercel.app/api?username=dotimothy&show_icons=true)
 
 ### What I Do
-🔭 I’m currently working on [Timduino Tutorials](https://dotimothy.github.io/TimduinoTutorials) where I document my process of learning the Arduino Uno. I'm also learning GPIO programming on the Raspberry Pi, where I made a [Morse Code Transmitter](https://github.com/dotimothy/PiFmMorse).
+🔭 I am a big fan of working with Raspberry Pis 🍓. I just recently made an [LED Temperature Sensor](https://github.com/dotimothy/picoTemp) using the Raspberry Pi Pico's internal sensor. I'm also learning GPIO programming on the Raspberry Pi, where I made a [Morse Code Transmitter](https://github.com/dotimothy/PiFmMorse) by concatenating sound files with Python, then transmitting it with PWM.
 <br>
 🌱 I’m currently learning Python in the Wake of the Artificial Intelligence Industry.
 <br>
