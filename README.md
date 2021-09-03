@@ -27,5 +27,7 @@
 
 See you around! Always drop an email if you wanna collab! ([timothydobsa@gmail.com](mailto:timothydobsa@gmail.com))
 
+![Contact Me!](https://dotimothy.github.io/contact.html)
+
 
 
