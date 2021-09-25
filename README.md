@@ -2,6 +2,8 @@
 
 ### My name is Timothy Do, and I am an incoming third year Electrical Engineering Student at UC Irvine. My specilization is Digital Signal Processing,and my research interests are media enchancement and motion interpolation with Artificial Intelligence. Check out my projects [PhotoLab_JS](https://dotimothy.github.io/PhotoLab_JS) and [RefreshVideos](https://dotimothy.github.io/RefreshVideos) to see some cool projects in my field! I hope we can collaborate soon, please don't hesitate to contact me if you want to work on something cool!!!!
 
+### I'm Currently Working on Project [Solarmon](https://dotimothy.github.io/Solarmon). Please Reach Out if You Want to Join!
+
 ![GitHub Statistics for Timothy Do](https://github-readme-stats.vercel.app/api?username=dotimothy&show_icons=true)
 
 ### What I Do
