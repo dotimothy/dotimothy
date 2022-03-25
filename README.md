@@ -1,10 +1,10 @@
 ## Greetings, Fellow Internet Explorer! 😎
 
-### My name is Timothy Do, and I am an incoming third year Electrical Engineering Student at UC Irvine. My specilization is Digital Signal Processing,and my research interests are media enchancement and motion interpolation with Artificial Intelligence. Check out my projects [PhotoLab_JS](https://dotimothy.github.io/PhotoLab_JS) and [RefreshVideos](https://dotimothy.github.io/RefreshVideos) to see some cool projects in my field! I hope we can collaborate soon, please don't hesitate to contact me if you want to work on something cool!!!!
+### My name is Timothy Do, and I am an incoming third year Electrical Engineering Student at UC Irvine. My specilization is Digital Signal Processing,and my research interests are media enchancement and motion interpolation with Artificial Intelligence. Check out my projects [PhotoLab_JS](https://dotimothy.github.io/PhotoLab_JS) and [RefreshVideos](https://timothydo.me/RefreshVideos) to see some cool projects in my field! I hope we can collaborate soon, please don't hesitate to contact me if you want to work on something cool!!!!
 
 ### I am currently conducting research for the UCI Computer Vision Lab under the direction of Professor [Glenn Healey](https://engineering.uci.edu/users/glenn-healey). 
 
-### I also like to work on my [HomeLab](http://dorm.thedocraft.me:32800) during my Free Time.
+### I also like to work on my [HomeLab](http://timothydo.me/thedolab) during my Free Time.
 
 ### My Personal Electronics Endeavor is Project [Solarmon](https://dotimothy.github.io/Solarmon). Please Reach Out if You Want to Join!
 
@@ -21,14 +21,14 @@
 <br>
 💬 Ask me about what projects I want to create!
 <br>
-📫 How to reach me: <a href="https://dotimothy.github.io/contact" target="_blank">Click Here!</a>
+📫 How to reach me: <a href="https://timothydo.me/contact" target="_blank">Click Here!</a>
 <br>
 😄 Pronouns: He/Him/His
 <br>
 ⚡ Fun fact: I play the Euphonium (aka Tiny Tuba) in my free time!
 
-<img width="90%" src="https://dotimothy.github.io/images/NVIDIA.jpg" style="text-align:center">
+<img width="90%" src="https://timothydo.me/images/NVIDIA.jpg" style="text-align:center">
 
-📄 Here's My [Resume](https://dotimothy.github.io/resume.html) if You Inquire My Services!
+📄 Here's My [Resume](https://timothydo.me/resume.html) if You Inquire My Services!
 
 See you around! Always drop an email if you wanna collab! ([timothydobsa@gmail.com](mailto:timothydobsa@gmail.com))
