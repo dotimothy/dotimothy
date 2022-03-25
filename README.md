@@ -1,12 +1,18 @@
 ## Greetings, Fellow Internet Explorer! 😎
 
-### My name is Timothy Do, and I am an incoming third year Electrical Engineering Student at UC Irvine. My specilization is Digital Signal Processing,and my research interests are media enchancement and motion interpolation with Artificial Intelligence. Check out my projects [PhotoLab_JS](https://dotimothy.github.io/PhotoLab_JS) and [RefreshVideos](https://timothydo.me/RefreshVideos) to see some cool projects in my field! I hope we can collaborate soon, please don't hesitate to contact me if you want to work on something cool!!!!
+### My name is Timothy Do, and I am a third year Electrical Engineering Student at UC Irvine, specializing in Digital Signal Processing. 
 
-### I am currently conducting research for the UCI Computer Vision Lab under the direction of Professor [Glenn Healey](https://engineering.uci.edu/users/glenn-healey). 
+### I have a wide array of programming assests such as MATLAB for Image Processing, Python for Tensorflow AI, Java for Android App development, and C for IoT Devices.
 
-### I also like to work on my [HomeLab](http://timothydo.me/thedolab) during my Free Time.
+### My research interests include media enhancement algorithms combined with artificial intelligence in the form of neural networks. I recently took part in a [research project](https://github.com/dotimothy/EECS195-Colorization) focusing on the different methodologies to colorize images with AI.
 
-### My Personal Electronics Endeavor is Project [Solarmon](https://dotimothy.github.io/Solarmon). Please Reach Out if You Want to Join!
+### I am currently conducting research for the UCI Computer Vision Lab under the direction of Professor [Glenn Healey](https://engineering.uci.edu/users/glenn-healey). We are doing research on Spectral Image Filtering.
+
+### I also like to work on my [HomeLab](http://timothydo.me/thedolab) during my Free Time. I come up with pretty cool circuits & IoT projects to make my Work From Home setup much more productive!
+
+### Please reach out by any means for collaborating on projects to make the world a better place!
+
+### 🤝 timothydobsa@gmail.com
 
 ![GitHub Statistics for Timothy Do](https://github-readme-stats.vercel.app/api?username=dotimothy&show_icons=true)
 
