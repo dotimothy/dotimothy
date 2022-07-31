@@ -1,6 +1,8 @@
 ## Greetings, Fellow Internet Explorer! 😎
 
-### My name is Timothy Do, and I am an incoming fourth year Electrical Engineering Student at UC Irvine, specializing in Digital Signal Processing. I currently am a [Industrial IoT Intern](https://www.westerndigital.com/) at Western Digital this summer!
+### My name is Timothy Do, and I am an incoming fourth year Electrical Engineering Undergraduate at UC Irvine, specializing in Digital Signal Processing. To accelerate my studies, I have taken a graduate course in Image Processing and planning on going for the Accelerated Masters program. 
+
+### I currently am a [Industrial IoT Intern](https://www.westerndigital.com/) at Western Digital this summer!
 
 <img width="100%" src="https://timothydo.me/WD.jpg"  style="text-align:center">
 
@@ -8,7 +10,7 @@
 
 ### I am currently conducting research for the UCI Computer Vision Lab under the direction of Professor [Glenn Healey](https://engineering.uci.edu/users/glenn-healey). We are doing research on Spectral Image Filtering.
 
-### My research interests include image processing algorithms combined with artificial intelligence in the form of neural networks. I recently took part in a [research project](https://github.com/dotimothy/EECS195-Colorization) focusing on the different methodologies to colorize images with AI.
+### My research interests include image processing algorithms combined with artificial intelligence in the form of neural networks. I took part in a [research project](https://github.com/dotimothy/EECS195-Colorization) focusing on the different methodologies to colorize images with AI.
 
 ### I also like to work on my [HomeLab](http://timothydo.me/thedolab) during my Free Time. I come up with pretty cool circuits & IoT projects to make my Work From Home setup much more productive! Please check out TheDoLab's self hosted website when you're free!
  
