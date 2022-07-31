@@ -1,18 +1,20 @@
 ## Greetings, Fellow Internet Explorer! 😎
 
-### My name is Timothy Do, and I am a third year Electrical Engineering Student at UC Irvine, specializing in Digital Signal Processing. 
+### My name is Timothy Do, and I am an incoming fourth year Electrical Engineering Student at UC Irvine, specializing in Digital Signal Processing. I currently am a [Industrial IoT Intern](https://www.westerndigital.com/) at Western Digital this summer!
 
-### I have a wide array of programming assests such as MATLAB for Image Processing, Python for Tensorflow AI, Java for Android App development, and C for IoT Devices.
+<img width="100%" src="https://timothydo.me/WD.jpg"  style="text-align:center">
 
-### My research interests include media enhancement algorithms combined with artificial intelligence in the form of neural networks. I recently took part in a [research project](https://github.com/dotimothy/EECS195-Colorization) focusing on the different methodologies to colorize images with AI.
+### I have a wide array of programming assests such as MATLAB for Image Processing, Python for Tensorflow AI, Java for Android App development, and C for Embedded IoT Systems.
 
 ### I am currently conducting research for the UCI Computer Vision Lab under the direction of Professor [Glenn Healey](https://engineering.uci.edu/users/glenn-healey). We are doing research on Spectral Image Filtering.
 
-### I also like to work on my [HomeLab](http://timothydo.me/thedolab) during my Free Time. I come up with pretty cool circuits & IoT projects to make my Work From Home setup much more productive!
+### My research interests include image processing algorithms combined with artificial intelligence in the form of neural networks. I recently took part in a [research project](https://github.com/dotimothy/EECS195-Colorization) focusing on the different methodologies to colorize images with AI.
 
+### I also like to work on my [HomeLab](http://timothydo.me/thedolab) during my Free Time. I come up with pretty cool circuits & IoT projects to make my Work From Home setup much more productive! Please check out TheDoLab's self hosted website when you're free!
+ 
 ### Please reach out by any means for collaborating on projects to make the world a better place!
 
-### 🤝 timothydobsa@gmail.com
+### 🤝 [timothydobsa@gmail.com](mailto:timothydobsa@gmail.com)
 
 ![GitHub Statistics for Timothy Do](https://github-readme-stats.vercel.app/api?username=dotimothy&show_icons=true)
 
