@@ -2,7 +2,7 @@
 
 ### My name is Timothy Do, and I am an incoming fourth year Electrical Engineering Undergraduate at UC Irvine, specializing in Digital Signal Processing. To accelerate my studies, I have taken a graduate course in Image Processing and planning on going for the Accelerated Masters program. 
 
-### I currently am a [Industrial IoT Intern](https://www.westerndigital.com/) at Western Digital this summer!
+### I currently am an [Industrial IoT Intern](https://www.westerndigital.com/) at Western Digital this summer!
 
 <img width="80%" src="https://timothydo.me/images/WD.jpg"  style="text-align:center">
 
