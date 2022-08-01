@@ -4,7 +4,7 @@
 
 ### I currently am an [Industrial IoT Intern](https://www.westerndigital.com/) at Western Digital this summer!
 
-<img  src="https://timothydo.me/images/westerndigital.jpg">
+<img width="80%" src="https://timothydo.me/images/westerndigital.jpg">
 
 ### I have a wide array of programming assests such as MATLAB for Image Processing, Python for Tensorflow AI, Java for Android App development, and C for Embedded IoT Systems.
 
