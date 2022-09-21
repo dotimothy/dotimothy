@@ -1,14 +1,14 @@
 ## Greetings, Fellow Internet Explorer! 😎
 
-### My name is Timothy Do, and I am an incoming fourth year Electrical Engineering Undergraduate at UC Irvine, specializing in Digital Signal Processing. To accelerate my studies, I have taken a graduate course in Image Processing and planning on going for the Accelerated Masters program. 
+### My name is Timothy Do, and I am fourth year Electrical Engineering Undergraduate at UC Irvine, specializing in Digital Signal Processing. To accelerate my studies, I have taken a graduate course in [Digital Image Processing](https://catalogue.uci.edu/allcourses/eecs/) and planning on going for the [Accelerated Masters](https://engineering.uci.edu/admissions/graduate/accelerated-status-program) program. 
 
-### I currently am an [Industrial IoT Intern](https://www.westerndigital.com/) at Western Digital this summer!
+### I am currently conducting research for the UCI Computer Vision Lab under the direction of Professor [Glenn Healey](https://engineering.uci.edu/users/glenn-healey). We are doing research on Spectral Image Filtering on Wildfires.
 
 <img width="80%" src="https://timothydo.me/images/westerndigital.jpg">
 
-### I have a wide array of programming assests such as MATLAB for Image Processing, Python for Tensorflow AI, Java for Android App development, and C for Embedded IoT Systems.
+### I interned at [Western Digital](https://www.westerndigital.com/) as an Industrial IOT intern for the Summer of 2022!
 
-### I am currently conducting research for the UCI Computer Vision Lab under the direction of Professor [Glenn Healey](https://engineering.uci.edu/users/glenn-healey). We are doing research on Spectral Image Filtering.
+### I have a wide array of programming assests such as MATLAB for Image Processing, Python for Data Analytics/Tensorflow AI, Java for Android App development, and C for Embedded IoT Systems.
 
 ### My research interests include image processing algorithms combined with artificial intelligence in the form of neural networks. I took part in a [research project](https://github.com/dotimothy/EECS195-Colorization) focusing on the different methodologies to colorize images with AI.
 
@@ -29,7 +29,7 @@
 <br>
 🤔 I’m looking for help with learning server languages, like SQL, Django, or AWS.
 <br>
-💬 Ask me about what projects I want to create!
+💬 Ask me about what projects I want to create!)
 <br>
 📫 How to reach me: <a href="https://timothydo.me/contact" target="_blank">Click Here!</a>
 <br>
