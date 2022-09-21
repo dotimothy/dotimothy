@@ -2,6 +2,8 @@
 
 ### My name is Timothy Do, and I am fourth year Electrical Engineering Undergraduate at UC Irvine, specializing in Digital Signal Processing. To accelerate my studies, I have taken a graduate course in [Digital Image Processing](https://catalogue.uci.edu/allcourses/eecs/) and planning on going for the [Accelerated Masters](https://engineering.uci.edu/admissions/graduate/accelerated-status-program) program. 
 
+### View My [Landing Page](https://timothydo.me/real)
+
 ### I am currently conducting research for the UCI Computer Vision Lab under the direction of Professor [Glenn Healey](https://engineering.uci.edu/users/glenn-healey). We are doing research on Spectral Image Filtering on Wildfires.
 
 <img width="80%" src="https://timothydo.me/images/westerndigital.jpg">
