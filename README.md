@@ -4,7 +4,7 @@
 
 ### View My [Landing Page](https://timothydo.me/real)
 
-### I am currently conducting research for the UCI Computer Vision Lab under the direction of Professor [Glenn Healey](https://engineering.uci.edu/users/glenn-healey). We are doing research on Spectral Image Filtering on Wildfires.
+### I am currently conducting research for the [Irvine Computer Vision Laboratory](https://newport.eecs.uci.edu/~timothd4/ICVL) at UC Irvine under the direction of Professor [Glenn Healey](https://engineering.uci.edu/users/glenn-healey). We are doing research on Spectral Image Filtering on Wildfires.
 
 <img width="80%" src="https://timothydo.me/images/westerndigital.jpg">
 
