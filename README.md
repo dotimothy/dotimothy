@@ -1,10 +1,10 @@
-## Greetings, Fellow Internet Explorer! 😎
+## Greetings, Fellow Internet Explorer, my name is Timothy Do! 😎
 
-<img width="60%" src="https://timothydo.me/images/cory.jpg">
+### 📄 Here’s My [Resume](https://timothydo.me/resume.html) & [CV](https://timothydo.me/CV.html)
 
-### My name is Timothy Do, and I am fourth year Electrical Engineering Undergraduate at UC Irvine, specializing in Digital Signal Processing. To accelerate my studies, I have taken a graduate course in [Digital Image Processing](https://catalogue.uci.edu/allcourses/eecs/) and am apart of the [Accelerated Status](https://engineering.uci.edu/admissions/graduate/accelerated-status-program) program for the ECE Master's Degree. 
+<img width="80%" src="https://timothydo.me/images/cory.jpg">
 
-### 📄 Here's My [Resume](https://timothydo.me/resume.html)
+### I am fourth year Electrical Engineering Undergraduate at UC Irvine, specializing in Digital Signal Processing. To accelerate my studies, I have taken a graduate course in [Digital Image Processing](https://catalogue.uci.edu/allcourses/eecs/) and am apart of the [Accelerated Status](https://engineering.uci.edu/admissions/graduate/accelerated-status-program) program for the ECE Master's Degree. 
 
 ### I am currently conducting research for the [Irvine Computer Vision Laboratory](https://newport.eecs.uci.edu/~timothd4/ICVL) at UC Irvine under the direction of Professor [Glenn Healey](https://engineering.uci.edu/users/glenn-healey). We are doing research on Spectral Image Filtering on Wildfires.
 
