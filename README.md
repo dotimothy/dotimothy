@@ -1,6 +1,6 @@
 ## Greetings, Fellow Internet Explorer! 😎
 
-<img width=“60%” src=“https://timothydo.me/images/cory.jpg”>
+<img width="60%" src="https://timothydo.me/images/cory.jpg">
 
 ### My name is Timothy Do, and I am fourth year Electrical Engineering Undergraduate at UC Irvine, specializing in Digital Signal Processing. To accelerate my studies, I have taken a graduate course in [Digital Image Processing](https://catalogue.uci.edu/allcourses/eecs/) and am apart of the [Accelerated Status](https://engineering.uci.edu/admissions/graduate/accelerated-status-program) program for the ECE Master's Degree. 
 
