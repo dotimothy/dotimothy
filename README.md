@@ -1,5 +1,7 @@
 ## Greetings, Fellow Internet Explorer! 😎
 
+<img width=“60%” src=“https://timothydo.me/images/cory.jpg”>
+
 ### My name is Timothy Do, and I am fourth year Electrical Engineering Undergraduate at UC Irvine, specializing in Digital Signal Processing. To accelerate my studies, I have taken a graduate course in [Digital Image Processing](https://catalogue.uci.edu/allcourses/eecs/) and am apart of the [Accelerated Status](https://engineering.uci.edu/admissions/graduate/accelerated-status-program) program for the ECE Master's Degree. 
 
 ### 📄 Here's My [Resume](https://timothydo.me/resume.html)
@@ -39,8 +41,4 @@
 <br>
 ⚡ Fun fact: I play the Euphonium (aka Tiny Tuba) in my free time!
 
-<img width="90%" src="https://timothydo.me/images/NVIDIA.jpg" style="text-align:center">
-
 ### View My [Landing Page](https://timothydo.me/real)
-
-See you around! Always drop an email if you wanna collab! ([timothydobsa@gmail.com](mailto:timothydobsa@gmail.com))
