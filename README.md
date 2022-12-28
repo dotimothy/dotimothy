@@ -41,4 +41,4 @@
 <br>
 ⚡ Fun fact: I play the Euphonium (aka Tiny Tuba) in my free time!
 
-### View My [Landing Page](https://timothydo.me/real)
+### View My [Landing Page](https://timothydo.me/landing)
