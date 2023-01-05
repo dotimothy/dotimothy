@@ -2,7 +2,7 @@
 
 ## View My 🌎 [Landing Page](https://timothydo.me/landing)
 
-### 📄 Here’s My [Resume](https://timothydo.me/resume.html) & [CV](https://timothydo.me/CV.html)&nbsp;&nbsp;&nbsp;&nbsp;🏆 [Selected Awards](https://timothydo.me/awards.html)
+### 📄 Here’s My [Resume](https://timothydo.me/resume.html) & [CV](https://timothydo.me/CV.html)&nbsp;&nbsp;&nbsp;&nbsp;🏆 [Selected Awards](https://timothydo.me/awards)
 
 
 <img width="40%" src="https://timothydo.me/images/facecase_anime.png"/><img width="60%" src="https://github-readme-stats.vercel.app/api?username=dotimothy&show_icons=true"/>
