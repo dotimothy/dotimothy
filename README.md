@@ -1,16 +1,13 @@
 ## Greetings, Fellow Internet Explorer, my name is Timothy Do! 😎
 
 ### 📄 Here’s My [Resume](https://timothydo.me/resume.html) & [CV](https://timothydo.me/CV.html)
+### 🏆 [Selected Awards](https://timothydo.me/awards.html)
 
-<img width="80%" src="https://timothydo.me/images/cory.jpg">
+<img width="50%" src="https://timothydo.me/images/facecase.png">
 
 ### I am fourth year Electrical Engineering Undergraduate at UC Irvine, specializing in Digital Signal Processing. To accelerate my studies, I have vehemently taken a graduate course in [Digital Image Processing](https://catalogue.uci.edu/allcourses/eecs/) and am apart of the [Accelerated Status](https://engineering.uci.edu/admissions/graduate/accelerated-status-program) program for the ECE Master's Degree. 
 
-### My research interests include image processing algorithms combined with artificial intelligence in the form of neural networks. I took part in a [research project](https://github.com/dotimothy/EECS195-Colorization) focusing on the different methodologies to colorize images with AI.
-
 ### I am currently an undergraduate student researcher for the [Irvine Computer Vision Laboratory](https://newport.eecs.uci.edu/~timothd4/ICVL) at UC Irvine under the direction of Professor [Glenn Healey](https://engineering.uci.edu/users/glenn-healey). We are doing research on Spectral Image Filtering on Wildfires.
-
-<img width="80%" src="https://timothydo.me/images/westerndigital.jpg">
 
 ### I interned at [Western Digital](https://www.westerndigital.com/) as an Industrial IOT intern for the Summer of 2022!
 
