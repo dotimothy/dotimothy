@@ -4,7 +4,8 @@
 
 ### 📄 Here’s My [Resume](https://timothydo.me/resume.html) & [CV](https://timothydo.me/CV.html)&nbsp;&nbsp;&nbsp;&nbsp;🏆 [Selected Awards](https://timothydo.me/awards.html)
 
-<img width="40%" src="https://timothydo.me/images/facecase_anime.png">
+
+<img width="40%" src="https://timothydo.me/images/facecase_anime.png"/><img width="60%" src="https://github-readme-stats.vercel.app/api?username=dotimothy&show_icons=true"/>
 
 ### I am fourth year Electrical Engineering Undergraduate at UC Irvine, specializing in Digital Signal Processing. To accelerate my studies, I have vehemently taken a graduate course in [Digital Image Processing](https://catalogue.uci.edu/allcourses/eecs/) and am apart of the [Accelerated Status](https://engineering.uci.edu/admissions/graduate/accelerated-status-program) program for the ECE Master's Degree. 
 
@@ -19,8 +20,6 @@
 ### Please reach out by any means for collaborating on projects to make the world a better place!
 
 ### 🤝 [timothydobsa@gmail.com](mailto:timothydobsa@gmail.com)
-
-![GitHub Statistics for Timothy Do](https://github-readme-stats.vercel.app/api?username=dotimothy&show_icons=true)
 
 ### What I Do
 🔭 I am a big fan of working with Raspberry Pis 🍓. I just recently made an [LED Temperature Sensor](https://github.com/dotimothy/picoTemp) using the Raspberry Pi Pico's internal sensor. I'm also learning GPIO programming on the Raspberry Pi, where I made a [Morse Code Transmitter](https://github.com/dotimothy/PiFmMorse) by concatenating sound files with Python, then transmitting it with PWM.
