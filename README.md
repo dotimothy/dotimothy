@@ -5,7 +5,7 @@
 ### 📄 Here’s My [Resume](https://timothydo.me/resume.html) & [CV](https://timothydo.me/CV.html)&nbsp;&nbsp;&nbsp;&nbsp;🏆 [Selected Awards](https://timothydo.me/awards)
 
 
-<img width="40%" src="https://timothydo.me/images/facecase_anime.png"/><img width="60%" src="https://github-readme-stats.vercel.app/api?username=dotimothy&show_icons=true"/>
+<img width="40%" src="https://timothydo.me/images/happycase.png"/><img width="60%" src="https://github-readme-stats.vercel.app/api?username=dotimothy&show_icons=true"/>
 
 ### I am fourth year ⚡ Electrical Engineering Undergraduate at UC Irvine, specializing in Digital Signal Processing. To accelerate my studies, I have vehemently taken a graduate course in 📷 [Digital Image Processing](https://catalogue.uci.edu/allcourses/eecs/) and am apart of the [Accelerated Status](https://engineering.uci.edu/admissions/graduate/accelerated-status-program) program for the ECE Master's Degree. 
 
