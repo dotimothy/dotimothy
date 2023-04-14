@@ -7,6 +7,8 @@
 
 <img width="40%" src="https://timothydo.me/images/happycase.png"/><img width="60%" src="https://github-readme-stats.vercel.app/api?username=dotimothy&show_icons=true"/>
 
+### Update: I will be purusing a Masters of Science in Electrical and Computer Engineering at [UCLA](https://ucla.edu)
+
 ### I am fourth year ⚡ Electrical Engineering Undergraduate at UC Irvine, specializing in Digital Signal Processing. To accelerate my studies, I have vehemently taken a graduate course in 📷 [Digital Image Processing](https://catalogue.uci.edu/allcourses/eecs/) and am apart of the [Accelerated Status](https://engineering.uci.edu/admissions/graduate/accelerated-status-program) program for the ECE Master's Degree. 
 
 ### I am currently an undergraduate student researcher for the 💻 [Irvine Computer Vision Laboratory](https://newport.eecs.uci.edu/~timothd4/ICVL) at UC Irvine under the direction of Professor [Glenn Healey](https://engineering.uci.edu/users/glenn-healey). We are doing research on Spectral Image Filtering on 🔥 Wildfires. In the industry, I have interned at [Western Digital](https://www.westerndigital.com/) as an 🌐 Industrial IOT intern for the Summer of 2022.
