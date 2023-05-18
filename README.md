@@ -5,7 +5,7 @@
 ### 📄 Here’s My [Resume](https://timothydo.me/resume.html) & [CV](https://timothydo.me/CV.html)&nbsp;&nbsp;&nbsp;&nbsp;🏆 [Selected Awards](https://timothydo.me/awards)
 
 
-<img width="40%" src="https://timothydo.me/images/happycase.png"/><img width="60%" src="https://github-readme-stats.vercel.app/api?username=dotimothy&show_icons=true"/>
+<img width="40%" src="https://timothydo.me/images/roycecase.png"/><img width="60%" src="https://github-readme-stats.vercel.app/api?username=dotimothy&show_icons=true"/>
 
 ### Update: I will be purusing a Masters of Science in Electrical and Computer Engineering at [UCLA](https://ucla.edu)!!!
 
