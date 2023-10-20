@@ -11,7 +11,7 @@
 
 ### I am first-year Master's of Science Student at [UCLA](https://ucla.edu). My concentration will by in Signals and Systems. 
 
-### I  was an undergraduate student researcher for the 💻 [Irvine Computer Vision Laboratory](https://newport.eecs.uci.edu/~timothd4/ICVL) at UC Irvine under the direction of Professor [Glenn Healey](https://engineering.uci.edu/users/glenn-healey). We are doing research on Spectral Image Filtering on 🔥 Wildfires. In the industry, I have interned at [Western Digital](https://www.westerndigital.com/) as an 🌐 Industrial IOT intern for the Summer of 2022.
+### I  was an undergraduate student researcher for the 💻 [Irvine Computer Vision Laboratory](https://newport.eecs.uci.edu/~timothd4/ICVL) at UC Irvine under the direction of Professor [Glenn Healey](https://engineering.uci.edu/users/glenn-healey). I conducted research on Spectral Image Analysis on 🔥 Wildfires. In the industry, I am currently an Embedded Software Engineering intern at [Maxeon Solar](https://maxeon.com/) and have interned at [Western Digital](https://www.westerndigital.com/) as an 🌐 Industrial IOT intern for the Summer of 2022.
 
 ### I have a wide array of 🧑‍💻 programming assests such as MATLAB for Image Processing, Python for Data Analytics/Tensorflow AI, Java for Android App development, and C for Embedded IoT Systems. I also have 👨‍🔬 hardware experience in Osciilloscopes, Spectrum Analyzers, and Multimeters.
 
