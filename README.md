@@ -4,12 +4,15 @@
 
 ### 📄 Here’s My [Resume](https://timothydo.me/resume.html) & [CV](https://timothydo.me/CV.html)&nbsp;&nbsp;&nbsp;&nbsp;🏆 [Selected Awards](https://timothydo.me/awards)
 
+<p float="left">
+ <img width="40%" src="https://timothydo.me/images/roycecase.png"/>
+ <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotimothy&theme=chartreuse-dark"/>
+</p>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=dotimothy&show_icons=true&theme=chartreuse-dark"/>
 
-<img width="40%" src="https://timothydo.me/images/roycecase.png"/>
 
-<!-- <img width="60%" src="https://github-readme-stats.vercel.app/api?username=dotimothy&show_icons=true"/> -->
 
-### I am first-year Master's of Science Student at [UCLA](https://ucla.edu). My concentration will by in Signals and Systems. 
+### I am first-year Master's of Science Student at [UCLA](https://ucla.edu). My concentration will by in Signals and Systems! My research interests are in Hyperspectral Imaging, Machine Vision with Neural Networks, and Image Processsing Acceleration.
 
 ### I  was an undergraduate student researcher for the 💻 [Irvine Computer Vision Laboratory](https://newport.eecs.uci.edu/~timothd4/ICVL) at UC Irvine under the direction of Professor [Glenn Healey](https://engineering.uci.edu/users/glenn-healey). I conducted research on Spectral Image Analysis on 🔥 Wildfires. In the industry, I am currently an Embedded Software Engineering intern at [Maxeon Solar](https://maxeon.com/) and have interned at [Western Digital](https://www.westerndigital.com/) as an 🌐 Industrial IOT intern for the Summer of 2022.
 
