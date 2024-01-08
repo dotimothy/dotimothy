@@ -19,4 +19,4 @@
  
 ### Please reach out by any means for collaborating on projects to make the world a better place 🌍!
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=dotimothy&show_icons=true&theme=chartreuse-dark"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=dotimothy&show_icons=true&theme=chartreuse-dark&rank_icon=github"/>
