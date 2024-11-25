@@ -9,7 +9,7 @@
  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotimothy&theme=chartreuse-dark"/>
 </p>
 
-### I am first-year Master's of Science Student at [UCLA](https://ucla.edu), cocentraing in Signals and Systems! My research interests are in Hyperspectral Imaging, Machine Vision with Neural Networks, and Image Processsing Acceleration.
+### I am a Computer Vision Engineering Intern at [SiMa.ai](https://sima.ai)! I graduated this past June with an M.S. in ECE at [UCLA](https://ucla.edu), cocentraing in Signals and Systems! I focused on Hyperspectral Imaging, Machine Vision with Neural Networks, and Image Processsing Acceleration during my curriculum.
 
 ### I  was an undergraduate student researcher for the 💻 [Irvine Computer Vision Laboratory](https://newport.eecs.uci.edu/~timothd4/ICVL) at UC Irvine under the direction of Professor [Glenn Healey](https://engineering.uci.edu/users/glenn-healey). I conducted research on Spectral Image Analysis on 🔥 Wildfires. In the industry, I am currently an Embedded Software Engineering intern at [Maxeon Solar](https://maxeon.com/) and have interned at [Western Digital](https://www.westerndigital.com/) as an 🌐 Industrial IOT intern for the Summer of 2022.
 
