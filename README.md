@@ -9,9 +9,9 @@
  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotimothy&theme=chartreuse-dark"/>
 </p>
 
-### I am a Computer Vision Engineering Intern at [SiMa.ai](https://sima.ai)! I graduated this past June with an M.S. in Electrical and Computer Engineering (ECE) from [UCLA](https://ucla.edu), cocentraing in Signals and Systems! I focused on Hyperspectral Imaging, Machine Vision with Neural Networks, and Image Processsing Acceleration during my curriculum.
+### I am a Software Engineer at [SiMa.ai](https://sima.ai)! I graduated this past June with an M.S. in Electrical and Computer Engineering (ECE) from [UCLA](https://ucla.edu), cocentraing in Signals and Systems! I focused on Hyperspectral Imaging, Machine Vision with Neural Networks, and Image Processsing Acceleration during my curriculum.
 
-### I  was an undergraduate student researcher for the 💻 [Irvine Computer Vision Laboratory](https://newport.eecs.uci.edu/~timothd4/ICVL) at UC Irvine under the direction of Professor [Glenn Healey](https://engineering.uci.edu/users/glenn-healey). I conducted research on Spectral Image Analysis on 🔥 Wildfires. In the industry, I am currently an Embedded Software Engineering intern at [Maxeon Solar](https://maxeon.com/) and have interned at [Western Digital](https://www.westerndigital.com/) as an 🌐 Industrial IOT intern for the Summer of 2022.
+### I  was an undergraduate student researcher for the 💻 [Irvine Computer Vision Laboratory](https://newport.eecs.uci.edu/~timothd4/ICVL) at UC Irvine under the direction of Professor [Glenn Healey](https://engineering.uci.edu/users/glenn-healey). I conducted research on Spectral Image Analysis on 🔥 Wildfires. In the industry, I have interened at [SiMa.ai](https://sima.ai) as a Computer Vision Intern for Summer 2024, [Maxeon Solar](https://maxeon.com/) as a Embedded Software Engineer Intern for Summer 2023, and at [Western Digital](https://www.westerndigital.com/) as an 🌐 Industrial IOT intern for the Summer 2022.
 
 ### I have a wide array of 🧑‍💻 programming assests such as MATLAB for Image Processing, Python for Data Analytics/Tensorflow AI, Java for Android App development, and C for Embedded IoT Systems. I also have 👨‍🔬 hardware experience in Osciilloscopes, Spectrum Analyzers, and Multimeters.
 
